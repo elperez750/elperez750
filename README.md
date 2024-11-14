@@ -23,7 +23,7 @@ My name is Elliott Perez And I am looking to get better everyday
 <div id="about" align="left">
 
 
-- :telescope: I’m currently studying Computer Science at Everett Community College but hope to transfer to Washington State University in 2023
+- :telescope: I’m currently studying Software Development at Bellevue College
 
 - :seedling: I am currently learning Django and Pygame
 
