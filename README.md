@@ -23,7 +23,7 @@ My name is Elliott Perez And I am looking to get better everyday
 <div id="about" align="left">
 
 
-- :telescope: I’m currently studying Software Development at Bellevue College
+- :telescope: I’m an incoming student at Central Washington University
 
 - :seedling: I am currently learning Django and Pygame
 
